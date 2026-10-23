@@ -1,0 +1,5 @@
+,CV MSE (train countries),Train R2,Test R2,Test MSE,Test RMSE
+Linear Regression,349.981,0.31,0.035,470.291,21.686
+Ridge,368.286,0.273,0.03,472.75,21.743
+Random Forest,369.071,0.732,-0.336,651.565,25.526
+Gradient Boosting,425.29,0.974,-0.261,614.663,24.792
